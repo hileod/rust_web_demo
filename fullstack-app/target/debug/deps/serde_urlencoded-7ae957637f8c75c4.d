@@ -1,0 +1,11 @@
+/home/appuser/rust/code/fullstack-app/target/debug/deps/libserde_urlencoded-7ae957637f8c75c4.rmeta: /home/appuser/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/serde_urlencoded-0.7.1/src/lib.rs /home/appuser/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/serde_urlencoded-0.7.1/src/de.rs /home/appuser/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/serde_urlencoded-0.7.1/src/ser/mod.rs /home/appuser/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/serde_urlencoded-0.7.1/src/ser/key.rs /home/appuser/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/serde_urlencoded-0.7.1/src/ser/pair.rs /home/appuser/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/serde_urlencoded-0.7.1/src/ser/part.rs /home/appuser/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/serde_urlencoded-0.7.1/src/ser/value.rs
+
+/home/appuser/rust/code/fullstack-app/target/debug/deps/serde_urlencoded-7ae957637f8c75c4.d: /home/appuser/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/serde_urlencoded-0.7.1/src/lib.rs /home/appuser/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/serde_urlencoded-0.7.1/src/de.rs /home/appuser/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/serde_urlencoded-0.7.1/src/ser/mod.rs /home/appuser/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/serde_urlencoded-0.7.1/src/ser/key.rs /home/appuser/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/serde_urlencoded-0.7.1/src/ser/pair.rs /home/appuser/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/serde_urlencoded-0.7.1/src/ser/part.rs /home/appuser/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/serde_urlencoded-0.7.1/src/ser/value.rs
+
+/home/appuser/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/serde_urlencoded-0.7.1/src/lib.rs:
+/home/appuser/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/serde_urlencoded-0.7.1/src/de.rs:
+/home/appuser/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/serde_urlencoded-0.7.1/src/ser/mod.rs:
+/home/appuser/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/serde_urlencoded-0.7.1/src/ser/key.rs:
+/home/appuser/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/serde_urlencoded-0.7.1/src/ser/pair.rs:
+/home/appuser/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/serde_urlencoded-0.7.1/src/ser/part.rs:
+/home/appuser/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/serde_urlencoded-0.7.1/src/ser/value.rs:

@@ -1,0 +1,12 @@
+/home/appuser/rust/code/fullstack-app/target/debug/deps/libasync_trait-a528b1402b724bc1.so: /home/appuser/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/async-trait-0.1.80/src/lib.rs /home/appuser/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/async-trait-0.1.80/src/args.rs /home/appuser/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/async-trait-0.1.80/src/bound.rs /home/appuser/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/async-trait-0.1.80/src/expand.rs /home/appuser/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/async-trait-0.1.80/src/lifetime.rs /home/appuser/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/async-trait-0.1.80/src/parse.rs /home/appuser/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/async-trait-0.1.80/src/receiver.rs /home/appuser/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/async-trait-0.1.80/src/verbatim.rs
+
+/home/appuser/rust/code/fullstack-app/target/debug/deps/async_trait-a528b1402b724bc1.d: /home/appuser/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/async-trait-0.1.80/src/lib.rs /home/appuser/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/async-trait-0.1.80/src/args.rs /home/appuser/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/async-trait-0.1.80/src/bound.rs /home/appuser/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/async-trait-0.1.80/src/expand.rs /home/appuser/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/async-trait-0.1.80/src/lifetime.rs /home/appuser/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/async-trait-0.1.80/src/parse.rs /home/appuser/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/async-trait-0.1.80/src/receiver.rs /home/appuser/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/async-trait-0.1.80/src/verbatim.rs
+
+/home/appuser/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/async-trait-0.1.80/src/lib.rs:
+/home/appuser/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/async-trait-0.1.80/src/args.rs:
+/home/appuser/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/async-trait-0.1.80/src/bound.rs:
+/home/appuser/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/async-trait-0.1.80/src/expand.rs:
+/home/appuser/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/async-trait-0.1.80/src/lifetime.rs:
+/home/appuser/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/async-trait-0.1.80/src/parse.rs:
+/home/appuser/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/async-trait-0.1.80/src/receiver.rs:
+/home/appuser/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/async-trait-0.1.80/src/verbatim.rs:

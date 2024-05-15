@@ -1,0 +1,11 @@
+/home/appuser/rust/code/fullstack-app/target/debug/deps/libfutures_task-14da83c27f6a1c4b.rmeta: /home/appuser/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/futures-task-0.3.30/src/lib.rs /home/appuser/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/futures-task-0.3.30/src/spawn.rs /home/appuser/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/futures-task-0.3.30/src/arc_wake.rs /home/appuser/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/futures-task-0.3.30/src/waker.rs /home/appuser/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/futures-task-0.3.30/src/waker_ref.rs /home/appuser/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/futures-task-0.3.30/src/future_obj.rs /home/appuser/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/futures-task-0.3.30/src/noop_waker.rs
+
+/home/appuser/rust/code/fullstack-app/target/debug/deps/futures_task-14da83c27f6a1c4b.d: /home/appuser/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/futures-task-0.3.30/src/lib.rs /home/appuser/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/futures-task-0.3.30/src/spawn.rs /home/appuser/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/futures-task-0.3.30/src/arc_wake.rs /home/appuser/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/futures-task-0.3.30/src/waker.rs /home/appuser/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/futures-task-0.3.30/src/waker_ref.rs /home/appuser/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/futures-task-0.3.30/src/future_obj.rs /home/appuser/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/futures-task-0.3.30/src/noop_waker.rs
+
+/home/appuser/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/futures-task-0.3.30/src/lib.rs:
+/home/appuser/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/futures-task-0.3.30/src/spawn.rs:
+/home/appuser/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/futures-task-0.3.30/src/arc_wake.rs:
+/home/appuser/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/futures-task-0.3.30/src/waker.rs:
+/home/appuser/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/futures-task-0.3.30/src/waker_ref.rs:
+/home/appuser/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/futures-task-0.3.30/src/future_obj.rs:
+/home/appuser/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/futures-task-0.3.30/src/noop_waker.rs:
